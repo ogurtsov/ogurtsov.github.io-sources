@@ -7,6 +7,10 @@ SITENAME = u'Dmitry Ogurtsov'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = ['attached', 'downloads']
+# ARTICLE_PATHS = ['blog']
+ARTICLE_SAVE_AS = 'blog/{date:%Y}/{slug}.html'
+ARTICLE_URL = 'blog/{date:%Y}/{slug}.html'
 
 TIMEZONE = 'Europe/Paris'
 
