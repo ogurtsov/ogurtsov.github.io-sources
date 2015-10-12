@@ -1,5 +1,5 @@
 Title: Vagrantfile for OpenCV and Python
-Date: 2015-10-09 10:37
+Date: 2015-10-8 23:07
 Category: Blog
 Tags: opencv, python, vagrant
 
