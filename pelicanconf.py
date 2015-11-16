@@ -30,7 +30,8 @@ LINKS = ()
 SOCIAL = (('GitHub', 'https://github.com/ogurtsov'),
     ('5Pointers', 'http://5pointers.com/'),
     ('UpWork', 'https://www.upwork.com/freelancers/~01f5159861ce9e4c0f'),
-    ('Guru', 'http://www.guru.com/freelancers/dmitry-ogurtsov'))
+    ('Guru', 'http://www.guru.com/freelancers/dmitry-ogurtsov'),
+    ('500px', 'https://500px.com/ogurtsov'))
 
 
 DEFAULT_PAGINATION = 10
